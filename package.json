@@ -1,0 +1,19 @@
+{
+  "name": "desafio-greenmile",
+  "version": "1.0.0",
+  "description": "Desafio para vaga de teste green mile",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "teste",
+    "cypress"
+  ],
+  "author": "Leandro Beserra",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  }
+}
